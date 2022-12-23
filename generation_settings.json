@@ -1,0 +1,12 @@
+{
+    "field_width": 15,
+    "field_length": 15,
+    "tree_chance": 0.3,
+    "river_length": 10,
+    "number_of_clouds": 10,
+    "lightning_chance": 0.3,
+    "clouds_update": 160,
+    "generate_fire": 140,
+    "generate_tree": 200,
+    "fire_out": 120
+}

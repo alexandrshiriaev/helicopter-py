@@ -1,0 +1,8 @@
+{
+  "extinguishing_cost": 10,
+  "water_capacity": 10,
+  "start_water": 10,
+  "fill_cooldown": 30,
+  "max_health": 10,
+  "heal_cost": 100
+}
